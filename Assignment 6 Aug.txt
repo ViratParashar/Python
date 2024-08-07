@@ -1,0 +1,68 @@
+Question:1 What will be the output of the following code?
+x = 5
+y = 3.2
+z = &quot;Hello&quot;
+print(x + y)
+print(z + &quot; World&quot;)
+
+Output:
+8.8
+Hello world
+
+Question:2 What will be the result of the following expression?
+result = 10 % 3
+print(result)
+
+output:
+1
+
+Question: What does the expression 7 != 5 evaluate to?
+print(7!=5)
+
+output:
+True
+
+Question: What will be the result of the following expression?
+x = True
+y = False
+result = x and y
+print(result)
+
+output:
+False
+
+Question: What will be the value of a after the following code is executed?
+
+a = 5
+a += 3
+print(a)
+
+output:
+8
+
+Question: What is the result of the following operation?
+greeting = "Hello " + "World!"
+print(greeting)
+
+output:Hello World!
+
+Question: What will be the result of the following code?
+repeated = "Python" * 3 
+print(repeated)
+
+output:
+PythonPythonPython 
+
+Question: What will be the result of converting the string &quot;42&quot; to an integer and adding 8?
+number = int("42") + 8
+print(number)
+
+output:
+50
+
+Question: What will be the result of the following code?
+result = 17 // 4
+print(result)
+
+output:
+4
